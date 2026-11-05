@@ -145,7 +145,7 @@ export default function ContactForm() {
             <div className="p-3 bg-slate-50 border border-slate-200 rounded-lg text-xs text-slate-700 flex items-start gap-2.5">
               <ShieldCheck className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
               <p>
-                <strong>Prompt Technical Support:</strong> You can also email 2D/3D component drawings directly to <a href="mailto:polychemicalfrp@gmail.com" className="text-orange-600 font-semibold underline">polychemicalfrp@gmail.com</a> or reach our Bhosari facility at <strong>+91 98220 18456</strong>.
+                <strong>Prompt Technical Support:</strong> You can also email 2D/3D component drawings directly to <a href="mailto:polychemicalfrp@gmail.com" className="text-orange-600 font-semibold underline">polychemicalfrp@gmail.com</a> or reach our Bhosari facility at <strong>+91 88888 73236</strong>.
               </p>
             </div>
 

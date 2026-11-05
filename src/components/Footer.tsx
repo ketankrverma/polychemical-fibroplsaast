@@ -65,7 +65,7 @@ export default function Footer() {
               <div className="flex items-start gap-3">
                 <MapPin className="w-4 h-4 text-orange-400 shrink-0 mt-0.5" />
                 <span>
-                  Bhosari MIDC, Pune, Maharashtra 411026, India
+                  J-212, MIDC, Bhosari, Pune, Maharashtra 411026, India
                 </span>
               </div>
               <div className="flex items-center gap-3">
@@ -77,12 +77,12 @@ export default function Footer() {
               <div className="flex items-start gap-3 text-slate-300">
                 <Phone className="w-4 h-4 text-orange-400 shrink-0 mt-0.5" />
                 <div className="space-y-0.5">
-                  <a href="tel:+919822018456" className="hover:text-orange-400 transition-colors font-medium">
-                    +91 98220 18456
+                  <a href="tel:+918888873236" className="hover:text-orange-400 transition-colors font-medium">
+                    +91 88888 73236
                   </a>
-                  <span className="text-[11px] text-slate-400 block">
-                    Plant Office: +91 (020) 2712 4890
-                  </span>
+                  <a href="tel:+918047810832" className="text-[11px] text-slate-400 block hover:text-slate-200 transition-colors">
+                    Trade Enquiry Line: +91 80478 10832
+                  </a>
                 </div>
               </div>
             </div>

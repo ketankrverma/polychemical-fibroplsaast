@@ -60,11 +60,11 @@ export default function Navbar() {
 
             <div className="flex items-center gap-5">
               <a
-                href="tel:+919822018456"
+                href="tel:+918888873236"
                 className="hover:text-orange-400 transition-colors flex items-center gap-1 text-slate-200 font-semibold"
               >
                 <Phone className="w-3.5 h-3.5 text-orange-400" />
-                <span>+91 98220 18456</span>
+                <span>+91 88888 73236</span>
               </a>
               <span className="text-slate-600">|</span>
               <a
@@ -154,9 +154,9 @@ export default function Navbar() {
           <div className="lg:hidden bg-[#0d1b3e] border-b border-slate-700/80 px-4 pt-3 pb-6 space-y-1 shadow-2xl animate-fadeIn">
             <div className="pb-3 mb-2 border-b border-slate-700/60 flex items-center justify-between text-xs text-slate-300">
               <span>Bhosari MIDC, Pune</span>
-              <a href="tel:+919822018456" className="text-orange-400 font-semibold flex items-center gap-1">
+              <a href="tel:+918888873236" className="text-orange-400 font-semibold flex items-center gap-1">
                 <Phone className="w-3 h-3" />
-                +91 98220 18456
+                +91 88888 73236
               </a>
             </div>
 

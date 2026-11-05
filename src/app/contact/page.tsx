@@ -65,12 +65,12 @@ export default function ContactPage() {
                       <MapPin className="w-5 h-5" />
                     </div>
                     <div>
-                      <strong className="text-slate-900 block font-semibold">Registered Location:</strong>
+                      <strong className="text-slate-900 block font-semibold">Registered Works & Office:</strong>
                       <p className="text-slate-600 leading-relaxed mt-0.5">
-                        Bhosari MIDC, Pune, Maharashtra 411026, India.
+                        J-212, MIDC, Bhosari, Pune, Maharashtra 411026, India.
                       </p>
                       <span className="text-[11px] text-slate-500 block mt-0.5">
-                        Strategic Pune Industrial Corridor (Pimpri-Chinchwad zone)
+                        Near Vishweshwar Chowk • Pimpri-Chinchwad Industrial Zone
                       </span>
                     </div>
                   </div>
@@ -81,13 +81,21 @@ export default function ContactPage() {
                       <Mail className="w-5 h-5" />
                     </div>
                     <div>
-                      <strong className="text-slate-900 block font-semibold">Official Business Email:</strong>
-                      <a
-                        href="mailto:polychemicalfrp@gmail.com"
-                        className="text-orange-600 font-semibold hover:text-orange-700 hover:underline mt-0.5 block"
-                      >
-                        polychemicalfrp@gmail.com
-                      </a>
+                      <strong className="text-slate-900 block font-semibold">Official Business Emails:</strong>
+                      <div className="space-y-0.5 mt-0.5">
+                        <a
+                          href="mailto:polychemicalfrp@gmail.com"
+                          className="text-orange-600 font-semibold hover:text-orange-700 hover:underline block"
+                        >
+                          polychemicalfrp@gmail.com
+                        </a>
+                        <a
+                          href="mailto:polychemfrp@gmail.com"
+                          className="text-slate-600 text-xs hover:text-orange-600 block"
+                        >
+                          polychemfrp@gmail.com
+                        </a>
+                      </div>
                       <span className="text-[11px] text-slate-500 block mt-0.5">
                         Direct technical drawing submissions & RFQ correspondence
                       </span>
@@ -100,20 +108,23 @@ export default function ContactPage() {
                       <Phone className="w-5 h-5" />
                     </div>
                     <div>
-                      <strong className="text-slate-900 block font-semibold">Telephone & Mobile Lines:</strong>
+                      <strong className="text-slate-900 block font-semibold">Telephone & Contact Lines:</strong>
                       <div className="space-y-1 mt-0.5">
                         <a
-                          href="tel:+919822018456"
-                          className="text-orange-600 font-semibold hover:text-orange-700 hover:underline block text-sm"
+                          href="tel:+918888873236"
+                          className="text-orange-600 font-bold hover:text-orange-700 hover:underline block text-base"
                         >
-                          +91 98220 18456
+                          +91 88888 73236
                         </a>
-                        <span className="text-slate-600 text-xs block">
-                          Plant Landline: +91 (020) 2712 4890
-                        </span>
+                        <a
+                          href="tel:+918047810832"
+                          className="text-slate-700 text-xs font-semibold block hover:text-orange-600"
+                        >
+                          Trade Enquiry Line: +91 80478 10832
+                        </a>
                       </div>
                       <span className="text-[11px] text-slate-500 block mt-0.5">
-                        Direct line for RFQs, drawing evaluations, and procurement
+                        Management: Sanjiv M. Patil (Director)
                       </span>
                     </div>
                   </div>

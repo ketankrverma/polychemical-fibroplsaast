@@ -2,8 +2,8 @@
 
 > **Advanced Composite & Precision Moulding Solutions**  
 > *FRP, SMC, BMC and Composite Products Manufacturing*  
-> **Plant & Office:** Bhosari MIDC, Pune, Maharashtra 411026, India  
-> **Email:** polychemicalfrp@gmail.com | **Phone:** +91 98220 18456 / +91 (020) 2712 4890
+> **Plant & Office:** J-212, MIDC, Bhosari, Pune, Maharashtra 411026, India  
+> **Email:** polychemicalfrp@gmail.com / polychemfrp@gmail.com | **Phone:** +91 88888 73236 / +91 80478 10832
 
 ---
 
@@ -76,3 +76,4 @@ npm run start
 ## 🏭 About Polychemical Fibroplast Private Limited
 
 Operating in the premier industrial hub of **Bhosari MIDC, Pune, Maharashtra**, Polychemical Fibroplast Private Limited specializes in high-integrity composite manufacturing, combining thermoset material formulation with high-tonnage hydraulic compression moulding.
+
